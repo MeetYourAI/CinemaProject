@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2814e1b9c12197d45ba1b1cf07b5cb49, type: 3}
+  m_Name: movieList
+  m_EditorClassIdentifier: 
+  movieList:
+  - name: Movie1
+    url: https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4
+  - name: Movie2
+    url: https://static.videezy.com/system/resources/previews/000/037/813/original/WH038.mp4
+  - name: Movie3
+    url: https://static.videezy.com/system/resources/previews/000/034/802/original/business6.mp4
+  - name: Movie4
+    url: https://static.videezy.com/system/resources/previews/000/035/692/original/business116.mp4
+  - name: Movie5
+    url: https://static.videezy.com/system/resources/previews/000/011/674/original/City_Timelapse_4_-_11s_-_4k_res.mp4
+  - name: Movie5
+    url: https://static.videezy.com/system/resources/previews/000/019/881/original/bullebaer5.mp4
