@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class UIManager : Singleton<UIManager>
+public class UIManager_Movie : Singleton<UIManager_Movie>
 {
     [SerializeField] GameObject[] panels;
     void Start()

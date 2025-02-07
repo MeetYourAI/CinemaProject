@@ -15,6 +15,6 @@ public class MovieChooserBtn : MonoBehaviour
     {
         Debug.Log($"PlayVideo: <color=yellow>{md.url}</color>");
         MovieManager.Instance.PlayVideoLink(md.url);
-        UIManager.Instance.SetPanels();
+        UIManager_Movie.Instance.SetPanels();
     }
 }
